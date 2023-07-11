@@ -26,4 +26,10 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
+## Connect with me:
+<p><a href="https://github.com/LauraOtz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/hokee.fotografiademascotas"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+<img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="30"> <em><b>
+I'm very excited to work on new projects and learn from this fascinating world! do not hesitate to contact me! I'll be happy to meet you!</b></em>
 
