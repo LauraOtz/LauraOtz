@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy Laura 👋</h1>
 </div>
 
-![gifprofile](https://github.com/LauraOtz/LauraOtz/assets/101349548/5c792756-5a8d-4c40-8db4-084e2d51eadb)
 
 Here are some ideas to get you started:
 
