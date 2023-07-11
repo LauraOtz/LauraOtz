@@ -1,6 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy Laura 👋</h1>
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101349548/252703143-d3793043-b0d0-43f1-91f8-d311b10b8e94.jpg"/>
+</p>
+
 
 
 Here are some ideas to get you started:
