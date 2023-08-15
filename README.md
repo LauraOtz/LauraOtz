@@ -7,7 +7,7 @@
 
 ## About me:
 - 🤩 I’m currently working on my own web site with React, MongoDB and Javascript
-- 🌎 I'm Argentinian living at Europe, nowadays at Italy
+- 🌎 I'm Argentinian living at Valencia, Spain
 - 😎 Next goal: mobile development
 - 📫 How to reach me → lauraotiz33@gmail.com
 - ⭐ Fun fact: I'm a pet photographer 🐶 and love ride rollers on my free time
